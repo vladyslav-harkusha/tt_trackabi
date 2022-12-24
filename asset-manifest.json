@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tt_trackabi/static/css/main.073c9b0a.css",
+    "main.js": "/tt_trackabi/static/js/main.f1a3b66e.js",
+    "static/js/787.bd135938.chunk.js": "/tt_trackabi/static/js/787.bd135938.chunk.js",
+    "static/media/logo.svg": "/tt_trackabi/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/tt_trackabi/index.html",
+    "main.073c9b0a.css.map": "/tt_trackabi/static/css/main.073c9b0a.css.map",
+    "main.f1a3b66e.js.map": "/tt_trackabi/static/js/main.f1a3b66e.js.map",
+    "787.bd135938.chunk.js.map": "/tt_trackabi/static/js/787.bd135938.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f1a3b66e.js"
+  ]
+}
